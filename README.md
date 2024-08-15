@@ -2,7 +2,7 @@
 
 A simple yet elegant stopwatch web application built using HTML, CSS, and JavaScript. This project is perfect for learning basic web development concepts, including DOM manipulation, event handling, and responsive design.
 
-![Stopwatch Screenshot](path-to-your-screenshot.png)
+![Stopwatch Screenshot](image.png)
 
 ## Features
 
@@ -13,11 +13,11 @@ A simple yet elegant stopwatch web application built using HTML, CSS, and JavaSc
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://your-live-demo-link.com).
+Check out the live demo of the project [here](https://kushagrakumar04.github.io/stopWatch/)
 
 ## Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone [https://github.com/KushagraKumar04/stopWatch]
