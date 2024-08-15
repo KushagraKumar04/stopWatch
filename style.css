@@ -38,7 +38,7 @@ body {
 .timer-display {
     width: 90%;
     background: #e3e3e3;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Times New Roman', monospace;
     color: #8c52ff;
     font-size: 40px;
     padding: 20px;
@@ -80,7 +80,6 @@ body {
 .buttons button:nth-last-child(1) {
     background: linear-gradient(145deg, #3f944e, #70d672);
 }
-/* Other CSS remains the same */
 
 .github-link {
     margin-top: 30px;
