@@ -57,6 +57,7 @@ body {
 .buttons button {
     width: 120px;
     height: 45px;
+    background: linear-gradient(145deg, #4d3296, #46817c);
     color: #a85050;
     border: none;
     font-family: 'Poppins', sans-serif;
