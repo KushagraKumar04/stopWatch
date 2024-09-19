@@ -1,4 +1,4 @@
-# Stylish Stopwatch Front
+# Stylish Stopwatch Frontend
 
 A simple yet elegant stopwatch web application built using HTML, CSS, and JavaScript. This project is perfect for learning basic web development concepts, including DOM manipulation, event handling, and responsive design for a stop watch.
 
