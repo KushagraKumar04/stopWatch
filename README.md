@@ -6,7 +6,7 @@ A simple yet elegant stopwatch web application built using HTML, CSS, and JavaSc
 
 ## Features
 
-- **Start**, **Pause**, and **Reset** functionalities.
+- **Start**, **Pause**, and **Reset** functionality.
 - Displays time in hours, minutes, seconds, and milliseconds.
 - Attractive and responsive design with a modern look.
 - GitHub link included for easy access to the project repository.
